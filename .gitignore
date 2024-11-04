@@ -1,0 +1,11 @@
+# Dependências
+vendor/
+.env
+
+# Logs
+logs/
+*.log
+
+# Cache
+tmp/
+cache/
